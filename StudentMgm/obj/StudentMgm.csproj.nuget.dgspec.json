@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Private\\Studie\\PBsoftware\\PBSW\\SemesterA\\DFD(Databases_for_developers)\\Opligatorisk1\\Studentmgm\\StudentMgm\\StudentMgm\\StudentMgm.csproj": {}
+    "C:\\Private\\Studie\\PBsoftware\\PBSW\\SemesterA\\DFD\\Opligatorisk1\\Studentmgm\\StudentMgm\\StudentMgm\\StudentMgm.csproj": {}
   },
   "projects": {
-    "C:\\Private\\Studie\\PBsoftware\\PBSW\\SemesterA\\DFD(Databases_for_developers)\\Opligatorisk1\\Studentmgm\\StudentMgm\\StudentMgm\\StudentMgm.csproj": {
+    "C:\\Private\\Studie\\PBsoftware\\PBSW\\SemesterA\\DFD\\Opligatorisk1\\Studentmgm\\StudentMgm\\StudentMgm\\StudentMgm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Private\\Studie\\PBsoftware\\PBSW\\SemesterA\\DFD(Databases_for_developers)\\Opligatorisk1\\Studentmgm\\StudentMgm\\StudentMgm\\StudentMgm.csproj",
+        "projectUniqueName": "C:\\Private\\Studie\\PBsoftware\\PBSW\\SemesterA\\DFD\\Opligatorisk1\\Studentmgm\\StudentMgm\\StudentMgm\\StudentMgm.csproj",
         "projectName": "StudentMgm",
-        "projectPath": "C:\\Private\\Studie\\PBsoftware\\PBSW\\SemesterA\\DFD(Databases_for_developers)\\Opligatorisk1\\Studentmgm\\StudentMgm\\StudentMgm\\StudentMgm.csproj",
+        "projectPath": "C:\\Private\\Studie\\PBsoftware\\PBSW\\SemesterA\\DFD\\Opligatorisk1\\Studentmgm\\StudentMgm\\StudentMgm\\StudentMgm.csproj",
         "packagesPath": "C:\\Users\\Danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Private\\Studie\\PBsoftware\\PBSW\\SemesterA\\DFD(Databases_for_developers)\\Opligatorisk1\\Studentmgm\\StudentMgm\\StudentMgm\\obj\\",
+        "outputPath": "C:\\Private\\Studie\\PBsoftware\\PBSW\\SemesterA\\DFD\\Opligatorisk1\\Studentmgm\\StudentMgm\\StudentMgm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Danie\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,6 +42,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

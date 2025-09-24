@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudentMgm
-build_property.ProjectDir = C:\Private\Studie\PBsoftware\PBSW\SemesterA\DFD(Databases_for_developers)\Opligatorisk1\Studentmgm\StudentMgm\StudentMgm\
+build_property.ProjectDir = C:\Private\Studie\PBsoftware\PBSW\SemesterA\DFD\Opligatorisk1\Studentmgm\StudentMgm\StudentMgm\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
